@@ -4,7 +4,7 @@
 
 ## Introduction
 
-NeoFlip ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use our mobile application **NeoFlip** (the "App").
+Neo Flip ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and disclose information when you use our mobile application **Neo Flip** (the "App").
 
 ## Information We Collect
 
@@ -88,7 +88,7 @@ If you have any questions about this Privacy Policy, please contact us:
 |-------|-------------|
 | **Email** | soydantech@gmail.com |
 | **Company** | soydantech |
-| **App Name** | NeoFlip |
+| **App Name** | Neo Flip |
 
 ## Consent
 
@@ -98,7 +98,7 @@ By using our App, you consent to our Privacy Policy and agree to its terms.
 
 <div align="center">
 
-*This Privacy Policy is effective as of December 7, 2024.*
+*This Privacy Policy is effective as of December 7, 2025.*
 
 </div>
 
